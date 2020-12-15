@@ -1,6 +1,5 @@
 # Camera-Application
-
-This camera application has the following features-
+This repo contains camera application which has the following features-
 1. Pick a photo/video from gallery/camera
 2. Display the selected image/video on the screen
 3. Save the media in gallery
